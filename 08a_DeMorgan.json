@@ -1,0 +1,23 @@
+{
+  "caption": "08_DeMorgan",
+  "gates": [],
+  "outputs": [],
+  "inputs": [],
+  "wires": [],
+  "busses": [],
+  "conpoints": [],
+  "diodes": [],
+  "customs": [],
+  "labels": [
+    {
+      "x": "90",
+      "y": "90",
+      "txt": "De Morgan"
+    }
+  ],
+  "segDisplays": [],
+  "busWrappers": [],
+  "busUnwrappers": [],
+  "busInputs": [],
+  "decoders": []
+}
